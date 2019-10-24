@@ -15,5 +15,4 @@ Validasi collection yang telah dibuat dengan parameter sbb :
 <br>
 <br>
 **KESIMPULAN** <br>
-<br>
 Practice 1 mengenai NoSQL pada PyMongo dalam membuat collection baru ini menunjukkan bahwa collection baru yang terbentuk (`clean_movies_afifah`) memiliki jumlah yang berbeda jika dibandingkan dengan collection target (`movies`). Namun dapat dipastikan tidak terdapat values yang berulang. Dan dikarenakan tidak terdapat `num_mflix_comments` dan `tomatos` ada collection `movies_initial`, sedangkan kedua keys tersebut ada pada `movies`, maka pada `clean_movies_afifah` kedua keys tersebut tidak memiliki values. Namun untuk jumlah keys pada `clean_movies_afifah` sudah sama persis dengan `movies`.
