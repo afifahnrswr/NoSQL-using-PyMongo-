@@ -1,5 +1,6 @@
 # NoSQL-using-PyMongo
-NoSQL Project to make new collcetion using PyMongo
+NoSQL Project to make new collection using PyMongo <br>
+Client yang digunakan : `[CLIENT]`('mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true&w=majority')
 <br>
 <br>
 <br>
